@@ -1,5 +1,5 @@
 # Welcome!
-This repository consists of a simple script with Python code to reproduce MLR-QSAR models presented in the publication:
+This repository consists of a simple script with Python code to reproduce MLR-QSPR models presented in the publication:
 
 "Environmental impact of PFAS: Filling data gaps using theoretical quantum chemistry and QSPR modeling" by Michalina Mudlaff, Anita Sosnowska, Leonid Gorb, Natalia Bulawska and Tomasz Puzyn
 
